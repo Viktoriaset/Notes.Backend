@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{B8653333-1449-400A-A5FD-617C8D389169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.Domain", "Notes.Domain\Notes.Domain.csproj", "{7502CA17-BD4D-4C5D-8087-AD9A209F1AAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastruction", "Infrastruction", "{81F1B83E-F7E7-49BA-BBC0-FB9FECC73019}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Introduction", "Introduction", "{1E721CE0-8CA8-4C03-94F7-00FD60AEAA60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{FF43E4BA-F208-4854-AF44-79CC437BBFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7502CA17-BD4D-4C5D-8087-AD9A209F1AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7502CA17-BD4D-4C5D-8087-AD9A209F1AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7502CA17-BD4D-4C5D-8087-AD9A209F1AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7502CA17-BD4D-4C5D-8087-AD9A209F1AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7502CA17-BD4D-4C5D-8087-AD9A209F1AAA} = {B8653333-1449-400A-A5FD-617C8D389169}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A3E0005-D86B-4060-B531-6F249F4FD91B}
+	EndGlobalSection
+EndGlobal
